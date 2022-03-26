@@ -18,14 +18,14 @@ function App() {
             target="_blank"
             rel="noreferrer"
           >
-            Explore mockBee
+            Explore mockBe
           </a>
           <a
             href="https://mockbee.netlify.app/docs/api/introduction"
             target="_blank"
             rel="noreferrer"
           >
-            API Documentation
+            API Documentation along with new additions
           </a>
           <a
             href="https://github.com/neogcamp/mockBee"
