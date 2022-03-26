@@ -34,6 +34,7 @@ function App() {
           >
             Contribute
           </a>
+          <h2>SO this is some more random text so that we can start</h2>
         </div>
       </header>
     </div>
