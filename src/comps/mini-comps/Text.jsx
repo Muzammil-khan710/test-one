@@ -6,6 +6,7 @@ const Text = () => {
     <div>
         <div className='extra-text' >Ok this is going at the top of the file structure
         </div>
+        <h4>Top text</h4>
     </div>
   )
 }

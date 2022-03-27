@@ -9,10 +9,6 @@ const Header = () => {
     console.log(counter)
   }
 
-  const counterCheckDecrem = () => { 
-    setCounter((prev) => prev - 1) ;
-    console.log(counter)
-  }
 
   console.log("clicked")
 
@@ -23,6 +19,7 @@ const Header = () => {
           <button onClick={counterCheck}> ++1</button>
           <button onClick={() => setCounter((prev) => prev - 1)}> -1</button>
         <div>also some more text</div>
+        <h4>Something more about</h4>
     </div>
   )
 }
